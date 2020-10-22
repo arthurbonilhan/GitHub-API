@@ -12,14 +12,14 @@
 
 [Arthur Bonilha](https://github.com/arthurbonilhan)
 
-## Oque foi feito
+## O que foi feito
 - Responsividade
 - Busca de usuários/ORGS
 - Tratativa de erros 
 - Busca de repositórios
 - Exbição de repositórios e usuários/ORGS
 
-## Techs
+## O que foi Utilizado
 
 - [x] Fetch API
 - [x] React.js

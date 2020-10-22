@@ -8,7 +8,7 @@
 
 ## Feito por
 
-[<img src="https://avatars2.githubusercontent.com/u/32990047?v=4" width="75px;" border-radius="50%"/>](https://github.com/arthurbonilhan)
+[<img src="https://avatars2.githubusercontent.com/u/32990047?v=4" width="75px;"/>](https://github.com/arthurbonilhan)
 
 [Arthur Bonilha](https://github.com/arthurbonilhan)
 

@@ -12,7 +12,7 @@
 
 [Arthur Bonilha](https://github.com/arthurbonilhan)
 
-## O que foi feito
+## Funcionalidades
 
 - Responsividade
 - Busca de usuários/ORGS
@@ -20,7 +20,7 @@
 - Busca de repositórios
 - Exbição de repositórios e usuários/ORGS
 
-## O que foi Utilizado
+## Ferramentas utilizadas
 
 - [x] Fetch API
 - [x] React.js

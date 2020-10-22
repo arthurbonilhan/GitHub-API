@@ -13,7 +13,7 @@
 [Arthur Bonilha](https://github.com/arthurbonilhan)
 
 ## Oque foi feito
-- Reponsividade
+- Responsividade
 - Busca de usuários/ORGS
 - Tratativa de erros 
 - Busca de repositórios
